@@ -5,5 +5,7 @@ The purpose of this analysis is to create a neural network to determine whether 
 
 # Results
 I ended up with 79% accuracy from 3 layers: 75 neurons in the first, 30 in the second, and 10 in the third. Loss was 44%
+![Structure of Neural Network](Resources/ModelStructure.png)
 
+![Summary](Resources/ResultsAccuracyLoss.png)
 
